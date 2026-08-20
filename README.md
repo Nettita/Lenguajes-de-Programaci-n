@@ -3,4 +3,4 @@ Semestre 2026-2
 Licenciatura en Ciencias de la Computación
 Universidad de Sonora
 
-[Anette Cazares Suarez]
+Anette Cazares Suarez
